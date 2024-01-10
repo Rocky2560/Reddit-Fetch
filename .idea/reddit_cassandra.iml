@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+<<<<<<< HEAD
+    <orderEntry type="jdk" jdkName="Python 3.8 (venv)" jdkType="Python SDK" />
+=======
+    <orderEntry type="jdk" jdkName="Python 3.8 (reddit_3.8)" jdkType="Python SDK" />
+>>>>>>> e331fd67a786c2a835e4f3ff0620f71c5f9730cd
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
