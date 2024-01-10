@@ -7,13 +7,24 @@ Subreddit is a forum dedicated to a specific topic.
 
 From PRAW subreddit hot posts data is fecthed from subreddit and stored in cassandra using pyspark. 
 For post data consist of:
-Id: post id Author: User name from which post is done. 
+
+Id: post id 
+
+Author: User name from which post is done. 
+
 Num_comments: numbers of comments in the posts.
+
 Created: time of post creation 
+
 Subreddit: subreddit name 
-Title: title of post Url: consist of Url of the post 
+
+Title: title of post 
+
+Url: consist of Url of the post 
+
 Self text: consist of text added in the post
- And it is stored in cassandra.
+
+And it is stored in cassandra Db.
 
 Deployed: 10.10.5.33
 Service name: reddit.service
