@@ -30,4 +30,4 @@ Deployed: 10.10.5.33
 Service name: reddit.service
 Project directory: /home/saque/reddit
 
-
+The python file connect.py has the code to fetch the reddit and store in cassandra.
